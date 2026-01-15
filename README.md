@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ivan
 
 - 🏬 I'm an engineer at Proinsoft. We are developing accounting systems.
-- 🌱 I’m currently learning async programming on python
+- 🌱 I am currently studying artificial intelligence tools and the implementation of LLM technologies.
 - 🐱 I love pet-projects. They help me grow professionally all my life.
 - 📫 You can reach me by email gufinhaly@gmail.com or Telegram @Ivan_Dro
 
